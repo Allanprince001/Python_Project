@@ -1,2 +1,2 @@
-# Python_Project
-Final assignment of python webscraping project of IBM data science course
+# IBM_data science
+Final assignments of IBM data science courses
